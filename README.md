@@ -1,12 +1,12 @@
-## Passionate Programmer Working at <a href="https://oranus.technology/">Oranus Tech</a> in Tehran, Iran
+## Passionate Programmer Working at <a href="https://maani.io/">Maani Group</a> in Tehran, Iran
 
 <hr />
 
-Fullstack Developer PHP(Laravel), Angular, NodeJS/NestJS.
+Fullstack Developer NodeJS/NestJS, Angular.
 <br />
 Love to lean more about web development and interested in Data Engineering concepts
 <br />
-🌱 Currently I'm learning Go Lang!
+🌱 Currently I've dedicated my time on myself :)
 <br />
 
 ## 📫 Contact me:
