@@ -1,4 +1,4 @@
-## Passionate Programmer Working at <a href="https://github.com/oranustech">Oranus Technologies</a> in Tehran, Iran
+## Passionate Programmer
 
 <hr />
 
